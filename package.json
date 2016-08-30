@@ -5,9 +5,9 @@
   "main": "server/app.js",
   "scripts": {
     "test": "nodemon server/app.js",
-    "start": "node server/app.js"
+    "start": "nodemon server/app.js"
   },
-  "author": "Kris Szafranski",
+  "author": "Corey Peck",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.8",
